@@ -1,0 +1,1 @@
+A simple game made with only the standard Java libraries. Made in 2 weeks in 2021.
